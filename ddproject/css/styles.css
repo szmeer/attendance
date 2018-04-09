@@ -1,0 +1,37 @@
+.jumbotron img{
+  width: 250px;
+  height: 250px;
+  margin: 0 auto;
+  margin-top: 20px;
+}
+
+.card{
+  background: #3e4042;
+  border-radius : 20px;
+}
+.btn {
+  border-radius: 12px;
+}
+.display-card{
+	color: white;
+}
+.form-group{
+	margin-top: 18px;
+}
+i{
+	position: absolute;
+    top: 14%;
+    left: 85%;
+
+}
+
+input[type=date]{
+	    font-size: 20px;
+    border: none;
+    margin-left: 15px;
+    position: relative;
+    padding: 10px;
+    top: -8px;
+    background: #c4c4c4;
+}
+
